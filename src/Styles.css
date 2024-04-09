@@ -1,0 +1,61 @@
+.account {
+  display: flex;
+  justify-content: center;
+}
+
+.account-div {
+  background-color: #f7f8f9;
+  height: 120vh;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.signin {
+  display: flex;
+  justify-content: center;
+}
+
+.signin-div {
+  background-color: #f7f8f9;
+  height: 80vh;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.welcome {
+  display: flex;
+  justify-content: center;
+}
+
+.welcome-div {
+  background-color: #f7f8f9;
+  height: 100vh;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-div {
+  background-color: #f7f8f9;
+  height: 80vh;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.image {
+  height: 20px;
+  width: 30px;
+}
